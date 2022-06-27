@@ -4,14 +4,15 @@
 
 <br>
 
-<h2 style="text-align: center">Desktop</h2>
+## Desktop
 
 ---
-[<div style="text-align: center"><img src="src/images/animação.1.gif" /></div>]
-<h2 style="text-align: center">Mobile</h2>
+[<img src="src/images/animação.1.gif">]
+
+## Mobile
 
 ---
-[<div style="text-align: center"><img src="src/images/animação.2.gif" /></div>]
+[<img src="src/images/animação.2.gif">]
 <br>
 
 
