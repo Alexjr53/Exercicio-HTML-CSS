@@ -7,12 +7,14 @@
 ## Desktop
 
 ---
-[<img src="src/images/animação.1.gif">]
+
+[<img src="Animação-1.gif" alt="gif da tela inicial desktop">]
 
 ## Mobile
 
 ---
-[<img src="src/images/animação.2.gif">]
+
+[<img src="Animação-2.gif" alt="gif da tela inicial mobile">]
 <br>
 
 
