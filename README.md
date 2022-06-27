@@ -14,7 +14,7 @@
 
 ---
 
-[<img src="Animação-2.gif" alt="gif da tela inicial mobile">]
+ <center>[<img src="Animação-2.gif" alt="gif da tela inicial mobile">]</center>
 <br>
 
 
