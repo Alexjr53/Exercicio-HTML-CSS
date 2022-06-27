@@ -1,4 +1,4 @@
-@media(max-width: 760px){
+@media(max-width: 775px){
     
     .cabecalho{
         flex-direction: column;
@@ -19,16 +19,17 @@
 
     .menu li:last-child{
       margin-top: 3.5rem;
-      margin-right: 1rem;
     }
 
     .menu li a{
         font-size: 4rem;
         padding: 1.5rem 4rem;
+        margin-left: auto;
     }
 
     .menu li a.botao{
         font-size: 1.8rem;
         padding: 1.5rem 2.5rem;
+        margin-left: auto;
     }
 }
