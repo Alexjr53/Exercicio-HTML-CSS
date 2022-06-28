@@ -14,8 +14,7 @@
 
 ---
 
-[<img src="Animação-2.gif" alt="gif da tela inicial mobile">
-<br>]
+[<img src="Animação-2.gif" alt="gif da tela inicial mobile">]
 
 
 ## Tecnologias utilizadas:
