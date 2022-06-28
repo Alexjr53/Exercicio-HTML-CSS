@@ -1,6 +1,6 @@
 @media(max-width: 775px){
     
-    .cabecalho{
+    .header{
         flex-direction: column;
     }
 
@@ -27,7 +27,7 @@
         margin-left: auto;
     }
 
-    .menu li a.botao{
+    .menu li a.button{
         font-size: 1.8rem;
         padding: 1.5rem 2.5rem;
         margin-left: auto;

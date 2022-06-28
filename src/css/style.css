@@ -7,7 +7,7 @@ body{
     font-weight: 400;
 }
 
-.cabecalho{
+.header{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -42,7 +42,7 @@ body{
 }
 
 
-.menu li a.botao{
+.menu li a.button{
     background-color: #5BC241;
     border-radius: 1rem;
     padding: 1rem 2rem;
