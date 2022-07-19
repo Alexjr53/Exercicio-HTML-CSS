@@ -37,13 +37,13 @@ body{
 }
 
 .menu li a:hover {
-    background-color: #5BC241;
+    background-color: var(--primary-soft);
     color: #ffffff;
 }
 
 
 .menu li a.button{
-    background-color: #5BC241;
+    background-color: var(--primary-soft);
     border-radius: 1rem;
     padding: 1rem 2rem;
     margin-left: 3rem;
